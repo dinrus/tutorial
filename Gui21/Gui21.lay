@@ -1,0 +1,4 @@
+LAYOUT(Gui21Layout, 200, 96)
+	ITEM(MyCtrl, myctrl, LeftPosZ(44, 120).TopPosZ(36, 28))
+END_LAYOUT
+

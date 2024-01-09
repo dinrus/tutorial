@@ -1,0 +1,12 @@
+description "Прерывание модального цикла\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp,
+	myapp.lay;
+
+mainconfig
+	"" = "GUI";
+

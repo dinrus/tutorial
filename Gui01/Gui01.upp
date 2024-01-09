@@ -1,0 +1,11 @@
+description "Главная функция ГИП-приложения\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+

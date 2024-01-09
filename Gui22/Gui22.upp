@@ -1,0 +1,11 @@
+description "Немодальные диалоговые окна\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+

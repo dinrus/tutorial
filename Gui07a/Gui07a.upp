@@ -1,0 +1,11 @@
+description "Меню - как единственная лямбда\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+

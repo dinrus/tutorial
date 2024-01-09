@@ -1,0 +1,12 @@
+description "Брус состояния и декоративные рамки\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp,
+	images.iml;
+
+mainconfig
+	"" = "GUI";
+
